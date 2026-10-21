@@ -1,0 +1,7 @@
+name: genpark-semver-dependency-resolver-agent-skill
+description: Semantic Versioning 2.0.0 range matcher and dependency tree resolver for multi-agent toolkits and plugins
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
